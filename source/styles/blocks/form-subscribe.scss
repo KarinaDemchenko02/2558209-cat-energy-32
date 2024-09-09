@@ -1,4 +1,3 @@
 .form-subscribe__input::placeholder {
   @include text-style(20px, 30px, 400, $secondary-font);
-  text-transform: uppercase;
 }
